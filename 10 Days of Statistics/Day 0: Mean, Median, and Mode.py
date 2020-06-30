@@ -4,7 +4,7 @@
 from collections import Counter
 
 # number of elements in list computed using len()
-# following variable only need ffor the challenge to work but not for the script
+# following variable only need for the challenge to work but not for the script
 n = input()
 
 ls_val = list(map(int, input().rstrip().split()))
