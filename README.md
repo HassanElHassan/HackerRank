@@ -1,2 +1,1 @@
-# miscellaneous_python
-Small python scripts
+https://www.hackerrank.com/hassan_elhassan
