@@ -3,8 +3,6 @@
 # quartiles calculated based on the first method described in the Wikipedia:
 # https://en.wikipedia.org/wiki/Quartile#Method_1
 
-from collections import Counter
-
 # number of elements in list computed using len()
 # following variable only need for the challenge to work but not for the script
 n = input()
