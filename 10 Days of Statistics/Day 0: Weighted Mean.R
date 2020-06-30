@@ -4,15 +4,15 @@ con <- file("stdin", open = "r")
 
 dataset <- readLines(con)
 
-ls_grade <- unlist(strsplit(dataset[2], split=" "))
-ls_grade <- as.numeric(ls_grade)
+v_grade <- unlist(strsplit(dataset[2], split=" "))
+v_grade <- as.numeric(v_grade)
 
-ls_weight <- unlist(strsplit(dataset[3], split=" "))
-ls_weight <- as.numeric(ls_weight)
+v_weight <- unlist(strsplit(dataset[3], split=" "))
+v_weight <- as.numeric(v_weight)
 
-mult = ls_grade*ls_weight
+mult = v_grade*v_weight
 mult_sum = sum(mult)
-weight_sum = sum(ls_weight)
+weight_sum = sum(v_weight)
 
 cat(format(round(mult_sum/weight_sum, digits=1), nsmall=1))
 
