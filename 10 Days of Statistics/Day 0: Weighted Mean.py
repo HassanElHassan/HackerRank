@@ -3,7 +3,7 @@
 # import numpy as np gives ModuleNotFoundError: No module named 'numpy'
 
 # number of elements in list computed using len()
-# following variable only need for the challenge to work but not for the script
+# following variable only needed for the challenge to work but not for the script
 n=input()
 
 ls_grade = list(map(int, input().rstrip().split()))
