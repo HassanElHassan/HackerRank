@@ -31,7 +31,7 @@ def Q1_Q3(ls_val, Q2):
     return st.median(ls_val_Q1), st.median(ls_val_Q3)
 
 # number of elements in list computed using len()
-# following variable only need for the challenge to work but not for the script
+# following variable only needed for the challenge to work but not for the script
 n = input()
 
 ls_elem = list(map(float, input().rstrip().split()))
