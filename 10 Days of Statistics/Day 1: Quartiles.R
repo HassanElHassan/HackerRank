@@ -4,13 +4,6 @@
 # https://en.wikipedia.org/wiki/Quartile#Method_1
 # none of the 9 types available in the R function quantile are according to this methode
 
-con <- file("stdin", open = "r")
-
-dataset <- readLines(con)
-
-v_values <- unlist(strsplit(dataset[2], split=" "))
-v_values <- as.numeric(v_values)
-
 Q1_Q3 <- function(v_values){
     # sort vector
     v_values <- sort(v_values)
@@ -37,6 +30,13 @@ Q1_Q3 <- function(v_values){
         Q3=median(v_values[start_upper:len_v])
         )  
 }
+
+con <- file("stdin", open = "r")
+
+dataset <- readLines(con)
+
+v_values <- unlist(strsplit(dataset[2], split=" "))
+v_values <- as.numeric(v_values)
 
 Q2 <- round(median(v_values), digits=0)
 Q1_Q3_values <- Q1_Q3(v_values)
