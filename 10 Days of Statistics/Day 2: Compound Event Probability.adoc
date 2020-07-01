@@ -1,0 +1,60 @@
+= Compound Event Probability
+===========
+:toc:           
+:toclevels:     4
+===========
+:sectnums: 
+:sectnumlevels: 4
+:xrefstyle:     short
+:Author:        Hassan el Hassan
+:Email:         <hassan.elhassan@confotherapeutics.com>
+:Date:          01/07/2020
+:imagesdir:     images    
+
+
+== Task 
+
+There are 3 urns labeled X, Z and Y.
+
+* Urn X contains 4 red balls and 3 black balls.
+* Urn Z contains 5 red balls and 4 black balls.
+* Urn Y contains 4 red balls and 4 black balls.
+
+One ball is drawn from each of the 3 urns. +
+What is the probability that, of the 3 balls drawn, 2 are red and 1 is black?
+
+.Task URL
+[%collapsible]
+====
+https://www.hackerrank.com/challenges/s10-mcq-3/problem
+====
+
+== Solution 
+
+17/42
+
+== Explanation
+
+*Probability in each urn* +
+
+.Ball color probability in each urn
+[options="header"]
+[width=40%]
+|========================
+|Urn    |Red    |Black   
+|X      |4/7    |3/7     
+|Y      |5/9    |4/9    
+|Z      |1/2    |1/2   
+|========================
+
+*Probability Tree Diagram* +
+Probabilities are  multiplied along the branches of the tree diagram. +
+
+.Probability Tree Diagram 
+[#Figure_1]
+image::Day_2_Basic_Probability_Probability_Tree_Diagram.png[width=80%]
+
+*Probability calculation* +
+2 out of the 3 tree diagram branches have 2 red and 1 black balls. +
+Add the probabilities of these 3 to get the total probability: +
+20/126+16/126+15/126=51/126=17/42
