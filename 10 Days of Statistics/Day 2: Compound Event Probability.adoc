@@ -53,7 +53,7 @@ Probabilities are  multiplied along the branches of the tree diagram. +
 .Probability Tree Diagram 
 [#Figure_1]
 image::Day_2_Basic_Probability_Probability_Tree_Diagram.png[width=80%]
-
++
 *Probability calculation* +
 2 out of the 3 tree diagram branches have 2 red and 1 black balls. +
 Add the probabilities of these 3 to get the total probability: +
