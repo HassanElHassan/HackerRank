@@ -35,7 +35,7 @@ https://www.hackerrank.com/challenges/s10-mcq-3/problem
 
 == Explanation
 
-*Probability in each urn* +
+#### Probability in each urn +
 
 .Ball color probability in each urn
 [options="header"]
@@ -47,15 +47,14 @@ https://www.hackerrank.com/challenges/s10-mcq-3/problem
 |Z      |1/2    |1/2   
 |========================
 
-*Probability Tree Diagram* +
+### Probability Tree Diagram +
 Probabilities are  multiplied along the branches of the tree diagram. +
 
-.Probability Tree Diagram
+.Probability Tree Diagram +
 [#Figure_1]
 image::Day_2_Basic_Probability_Probability_Tree_Diagram.png[width=80%]
 
-
-*Probability calculation* +
+### Probability calculation +
 2 out of the 3 tree diagram branches have 2 red and 1 black balls. +
 Add the probabilities of these 3 to get the total probability: +
 20/126+16/126+15/126=51/126=17/42
