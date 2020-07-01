@@ -29,13 +29,13 @@ https://www.hackerrank.com/challenges/s10-mcq-1/problem
 == Explanation
 
 *Experiment:* +
-a single toss of 2 fair (evenly-weighted) six-sided dice. +
+A single toss of 2 fair (evenly-weighted) six-sided dice. +
 
 *Sample space (S):* +
 The possible outcomes for the toss of 1 die are {1,2,3,4,5,6}. As our experiment tosses 2 dice, we have to consider all possible toss outcomes by finding the Cartesian Product of the possible outcomes for each die: S= {{1,2,3,4,5,6}X{1,2,3,4,5,6}} = (6x6) = 36. +
 
 *Event (A and B):* + 
-that the sum is at most 9. + 
+That the sum is at most 9. + 
 It's easier to note the events that don't meet the criteria, where the sum is higher than 9: {{5,5},{4,6},{5,6},{6,6},{6,5},{6,4}} = 6. +
 All the remaning events will be the events where the sum is at most 9: 36-6= 30
 
