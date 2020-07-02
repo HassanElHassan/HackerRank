@@ -70,6 +70,5 @@ Out of the 3 posibilities of at least one child being a boy {{B,B},{B,G},{G,B}} 
 
 #### The hard way
 
-P(BB|B)= P(BB and B) / P(B) +
-1/3 = (1/4) / (3/4) 
+P(BB|B)= P(BB and B) / P(B) = (1/4) / (3/4) = 1/3
 
