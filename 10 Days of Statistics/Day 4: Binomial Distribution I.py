@@ -2,7 +2,7 @@
 from itertools import combinations
 from math import factorial as fact
 
-# function same result as len(list(combinations(range(n),x)))
+# the following function generates the same result as len(list(combinations(range(n),x)))
 # combinations 
 def comb(n, x):
     return fact(n) / (fact(x) * fact(n-x))
