@@ -4,24 +4,24 @@ from math import factorial as fact
 
 # function same result as len(list(combinations(range(n),x)))
 # combinations 
-def comb(n,x):
+def comb(n, x):
     return fact(n) / (fact(x) * fact(n-x))
 
 # function to calculate the probability of an event
-def prob(p,x,n):
+def prob(p, x, n):
     # The probability of failure of 1 trial 
     q = 1 - p
     # The number of failures 
-    y = n-x
+    y = n - x
 
     return (p**x)*(q**y) 
 
 # function to calculate the total probability of 1 number of successes
 def b(x, n, p):
     # events with x
-    events = comb(n,x)
+    events = comb(n, x)
     # probability for each
-    prob_each = prob(p,x,n)
+    prob_each = prob(p, x, n)
     # total probability 
     return events * prob_each
 
