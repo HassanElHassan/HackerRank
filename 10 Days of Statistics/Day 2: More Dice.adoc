@@ -28,14 +28,14 @@ https://www.hackerrank.com/challenges/s10-mcq-2/problem
 
 == Explanation
 
-*Experiment:* +
+### Experiment
 A single toss of 2 fair (evenly-weighted) six-sided dice. +
 
-*Sample Space (S):* +
+### Sample Space (S)
 The possible outcomes for the toss of 1 die are {1,2,3,4,5,6}. As our experiment tosses 2 dice, we have to consider all possible toss outcomes by finding the Cartesian Product of the possible outcomes for each die: S= {{1,2,3,4,5,6}X{1,2,3,4,5,6}} = (6x6) = 36. +
 
-*Event (A and B):* + 
+### Event (A and B)
 That the values rolled by each die is different and the two dice have a sum of 6: {{4,2},{5,1},{2,4},{1,5}} = 4 +
 
-*Probability:* +
+### Probability
 4/36 = 2/18 = 1/9
