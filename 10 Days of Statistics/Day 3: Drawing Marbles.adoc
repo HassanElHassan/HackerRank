@@ -1,0 +1,46 @@
+= Drawing Marbles
+===========
+:toc:           
+:toclevels:     4
+===========
+:sectnums: 
+:sectnumlevels: 4
+:xrefstyle:     short
+:Author:        Hassan el Hassan
+:Email:         <hassan.elhassan@confotherapeutics.com>
+:Date:          02/07/2020
+:imagesdir:     images    
+
+
+== Task 
+
+A bag contains 3 red marbles and 4 blue marbles. Then, 2 marbles are drawn from the bag, at random, without replacement. If the first marble drawn is red, what is the probability that the second marble is blue?
+
+.Task URL
+[%collapsible]
+====
+https://www.hackerrank.com/challenges/s10-mcq-6/problem
+====
+
+== Solution 
+
+2/3
+
+== Explanation
+
+
+### Experiment
+The probability that a second drawn marble is blue after a first marble is drawn from a bag containing 3 red and 4 blue marbles =  P(Blue) = P(B). +
+
+
+### Sample Space (S)
+We are only interested in the probability of the second event, so we need to look to the bag in the state after the first event is finished. After the first marble is drawn, a red one, there will be 2 red and 4 blue marbles remaining. so (S) is 6. 
+
+
+### Event (B)
+There are 4 blue marbles, so (B) is 4.
+
+
+### Probability Calculation
+P(B) = B/S = 4/6 = 2/3
+
