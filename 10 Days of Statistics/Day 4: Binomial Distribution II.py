@@ -28,22 +28,15 @@ def b(x, n, p):
 
 ls_input = list(map(float, input().rstrip().split()))
 
-# the terms of the ratio
-# antecedent or first term
-first_term = ls_input[0]
-# consequent or second term
-# second_term = 100 - first_term
+# the probability of success of 1 trial
+p = ls_input[0] / 100
 
 # the total number of trials
 n = ls_input[1]
 
-# the probability of success of 1 trial
-p = first_term / 100
-
 # 10 pistons will contain no more than 2 rejects.
 # list of number of successes 
 ls_x = [0,1,2]
-
 # total probability for list of number of successes
 total_prob_all = 0
 for x in ls_x:
@@ -52,7 +45,6 @@ for x in ls_x:
 # 10 pistons will contain at least 2 rejects.
 # list of number of successes 
 ls_x2 = [2,3,4,5,6,7,8,9,10]
-
 # total probability for list of number of successes
 total_prob_all2 = 0
 for x in ls_x2:
