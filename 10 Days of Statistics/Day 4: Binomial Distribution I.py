@@ -1,5 +1,6 @@
 # https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem
-from itertools import combinations
+
+# from itertools import combinations
 from math import factorial as fact
 
 # the following function generates the same result as len(list(combinations(range(n),x)))
@@ -13,7 +14,6 @@ def prob(p, x, n):
     q = 1 - p
     # The number of failures 
     y = n - x
-
     return (p**x)*(q**y) 
 
 # function to calculate the total probability of 1 number of successes
@@ -24,7 +24,6 @@ def b(x, n, p):
     prob_each = prob(p, x, n)
     # total probability 
     return events * prob_each
-
 
 ls_input = list(map(float, input().rstrip().split()))
 
