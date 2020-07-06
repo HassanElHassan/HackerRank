@@ -43,6 +43,7 @@ for x in ls_x:
     total_prob_all += b(x, n, p)  
 
 # 10 pistons will contain at least 2 rejects.
+# an option -> 1-P[0,1] 
 # list of number of successes 
 ls_x2 = [2,3,4,5,6,7,8,9,10]
 # total probability for list of number of successes
