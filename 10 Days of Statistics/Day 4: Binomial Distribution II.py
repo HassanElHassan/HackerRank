@@ -1,4 +1,4 @@
-# https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem
+# https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem
 
 # from itertools import combinations
 from math import factorial as fact
