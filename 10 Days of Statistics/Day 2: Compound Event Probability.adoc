@@ -46,9 +46,9 @@ https://www.hackerrank.com/challenges/s10-mcq-3/problem
 |========================
 
 ### Probability Tree Diagram +
-Probabilities are  multiplied along the branches of the tree diagram. +
+Probabilities are  multiplied along the branches of the tree diagram.
 
-.Probability Tree Diagram +
+.Probability Tree Diagram 
 [#Figure_1]
 image::Day_2_Basic_Probability_Probability_Tree_Diagram.png[width=80%]
 
