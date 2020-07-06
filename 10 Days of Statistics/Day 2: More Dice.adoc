@@ -1,4 +1,4 @@
-= Basic Probability
+= More Dice
 :Author:        Hassan el Hassan
 :Email:         <hassan.el.hassan@vub.com>
 :Date:          01/07/2020
