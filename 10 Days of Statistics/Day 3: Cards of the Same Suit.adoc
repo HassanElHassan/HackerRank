@@ -1,15 +1,14 @@
 = Permutations and Combinations
-===========
+:Author:        Hassan el Hassan
+:Email:         <hassan.el.hassan@vub.com>
+:Date:          01/07/2020
 :toc:           
 :toclevels:     4
-===========
 :sectnums: 
 :sectnumlevels: 4
 :xrefstyle:     short
-:Author:        Hassan el Hassan
-:Email:         <hassan.elhassan@confotherapeutics.com>
-:Date:          02/07/2020
-:imagesdir:     images    
+:imagesdir:     images
+:hardbreaks:   
 
 
 == Task 
@@ -29,33 +28,33 @@ https://www.hackerrank.com/challenges/s10-mcq-5/problem
 == Explanation
 
 ### Experiment
-The probability that two drawn cards from a 52-card deck are of the same suit =  P(desirable events) = P(E). +
+The probability that two drawn cards from a 52-card deck are of the same suit =  P(desirable events) = P(E).
 
 ### The Easy Approach
-After the first card is draw there are 51 cards left. The first drawn card determines the card suite of interest for the second draw. That card suite has only 12 cards left. +
+After the first card is draw there are 51 cards left. The first drawn card determines the card suite of interest for the second draw. That card suite has only 12 cards left.
 The probability that the second card, drawn from the remaining 51 cards, is one of the remaining 12 cards from the suite of interest is 12/51.
 
 ### The Hard Approach
 
 #### Sample Space (S)
-At the first draw the deck is 52 cards and at the second draw 51 cards. total permutations is 52 * 51. But because it's a combination, and so order doesn't matter, we need to divide by the factorial of the draws, which is 2(2*1). so sample size is: +
-52*51/2=1326 +
+At the first draw the deck is 52 cards and at the second draw 51 cards. total permutations is 52 * 51. But because it's a combination, and so order doesn't matter, we need to divide by the factorial of the draws, which is 2(2*1). so sample size is:
+52*51/2=1326
 
-The calculation can also be done as followed: +
+The calculation can also be done as followed:
 n!/(r!x(n-r)!) = 52!/(2!x(52-2)!) = 1326
 
 #### Desirable Events (E)
-We are choosing 1 suite out of 4 and 2 cards out of 13 from that suite. +
-The number of ways a single suite can be chosen is 4. +
-The number of ways 2 cards can be chosen from 13, total permutations, is 13*12. to get the combinations, we need to divide by the factorial of the cards, which is 2(2*1). so the number of ways is (52*51)/2 is 78. +
-The total events: +
+We are choosing 1 suite out of 4 and 2 cards out of 13 from that suite.
+The number of ways a single suite can be chosen is 4.
+The number of ways 2 cards can be chosen from 13, total permutations, is 13*12. to get the combinations, we need to divide by the factorial of the cards, which is 2(2*1). so the number of ways is (52*51)/2 is 78.
+The total events:
 4*78 = 312
 
-The calculation can also be done as followed: +
-n!/(r!x(n-r)!) x n!/(r!x(n-r)!) = +
+The calculation can also be done as followed:
+n!/(r!x(n-r)!) x n!/(r!x(n-r)!) =
 4!/(1!x(4-1)!) x 13!/(2!x(13-2)!) = 312
 
 
 #### Desirable Events Probability Calculation P(E)
-The probability of the desirable events (E) can be calculated by dividing the desirable events (E) by the sample space (S):
-E/S = 312/1326 = 12/51
+The probability of the desirable events (P(E)) can be calculated by dividing the desirable events (E) by the sample space (S):
+P(E) = E/S = 312/1326 = 12/51
