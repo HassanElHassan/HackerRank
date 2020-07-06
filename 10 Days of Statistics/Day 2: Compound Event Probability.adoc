@@ -10,6 +10,9 @@
 :imagesdir:     images
 :hardbreaks:
 
+== Objective
+In this challenge, we practice calculating the probability of a compound event.
+
 == Task 
 
 There are 3 urns labeled X, Z and Y.
