@@ -1,5 +1,14 @@
 # https://www.hackerrank.com/challenges/s10-standard-deviation/problem
 
+"""
+Objective
+In this challenge, we practice calculating standard deviation. Check out the Tutorial tab for learning materials and an instructional video!
+
+Task
+Given an array, X, of n integers, calculate and print the standard deviation. Your answer should be in decimal form, rounded to a scale of 1 decimal place.
+An error margin of +-0.1 will be tolerated for the standard deviation.
+"""
+
 # challenge can easily be solved using statistics.pstdev()
 
 import math
