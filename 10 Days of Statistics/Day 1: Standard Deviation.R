@@ -1,7 +1,7 @@
 # https://www.hackerrank.com/challenges/s10-standard-deviation/problem
 
 # the build in sd() function is for sample not population
-# an option using this sd(): sqrt((n-1)/n) * sd(x)
+# an option -> sqrt((n-1)/n) * sd(x)
 
 # function to calculate the population sd
 popsd <- function(v_val){
