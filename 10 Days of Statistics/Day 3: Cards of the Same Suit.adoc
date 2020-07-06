@@ -41,7 +41,8 @@ At the first draw the deck is 52 cards and at the second draw 51 cards. total pe
 52*51/2=1326
 
 The calculation can also be done as followed:
-n!/(r!x(n-r)!) = 52!/(2!x(52-2)!) = 1326
+n!/(r!x(n-r)!) =
+52!/(2!x(52-2)!) = 1326
 
 #### Desirable Events (E)
 We are choosing 1 suite out of 4 and 2 cards out of 13 from that suite.
