@@ -47,7 +47,7 @@ n!/(r!x(n-r)!) =
 #### Desirable Events (E)
 We are choosing 1 suite out of 4 and 2 cards out of 13 from that suite.
 The number of ways a single suite can be chosen is 4.
-The number of ways 2 cards can be chosen from 13, total permutations, is 13*12. to get the combinations, we need to divide by the factorial of the cards, which is 2(2*1). so the number of ways is (52*51)/2 is 78.
+The number of ways 2 cards can be chosen from 13, total permutations, is 13*12. to get the combinations, we need to divide by the factorial of the cards, which is 2(2*1). so the number of ways is (13*12)/2 is 78.
 The total events:
 4*78 = 312
 
