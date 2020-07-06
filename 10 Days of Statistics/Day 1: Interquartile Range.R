@@ -1,4 +1,4 @@
-# https://www.hackerrank.com/challenges/s10-quartiles/problem
+# https://www.hackerrank.com/challenges/s10-interquartile-range/problem
 
 # quartiles calculated based on the first method described in the Wikipedia:
 # https://en.wikipedia.org/wiki/Quartile#Method_1
