@@ -9,19 +9,31 @@
 :xrefstyle:     short
 :imagesdir:
 :hardbreaks:
+:linkattrs:
 
 TIP: HackerRank Profile:
 https://www.hackerrank.com/hassan_elhassan[Hassan EL Hassan]
 
 == 10 Days of Statistics
-TIP: https://www.hackerrank.com/domains/tutorials/10-days-of-statistics?filters%5Bstatus%5D%5B%5D=solved&filters%5Bsubdomains%5D%5B%5D=10-days-of-statistics&badge_type=10-days-of-statistics[10 Days of Statistics]
-All coding solution are in Python(.py) and R(.R).
-All text solutions are in Asciidoc(.adoc).
+TIP: https://www.hackerrank.com/domains/tutorials/10-days-of-statistics?filters%5Bstatus%5D%5B%5D=solved&filters%5Bsubdomains%5D%5B%5D=10-days-of-statistics&badge_type=10-days-of-statistics[10 Days of Statistics] on HackerRank.
+All coding solution are done using Python(.py) and R(.R).
+All text solutions are done using Asciidoc(.adoc).
+
+
 [options="header"]
-[cols="10%,45%,45%"]
-[width="100%"]
+[cols="10%,60%,30%"]
+[width="60%"]
 |=================================================
 |Day|Challenge on HackerRank                 |Solution on GitHub
-|0  |https://www.hackerrank.com/challenges/s10-basic-statistics/problem[Mean, Median, and Mode]     |https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%200:%20Mean%2C%20Median%2C%20and%20Mode.py[Day 0: Mean, Median, and Mode.py]
-|0  |https://www.hackerrank.com/challenges/s10-basic-statistics/problem[Mean, Median, and Mode]     |https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%200:%20Mean%2C%20Median%2C%20and%20Mode.R[Day 0: Mean, Median, and Mode.R]
+|0  |https://www.hackerrank.com/challenges/s10-basic-statistics/problem["Mean, Median, and Mode", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%200:%20Mean%2C%20Median%2C%20and%20Mode.py["Python", window=”_blank”] / https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%200:%20Mean%2C%20Median%2C%20and%20Mode.R["R", window=”_blank”]
+
+|0  |https://www.hackerrank.com/challenges/s10-weighted-mean/problem["Weighted Mean", window=”_blank”] |   https://https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%200:%20Weighted%20Mean.py["Python", window=”_blank”] / https://https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%200:%20Weighted%20Mean.R["R", window=”_blank”]
+
+|1  |https://www.hackerrank.com/challenges/s10-quartiles["Quartiles", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%201:%20Quartiles.py["Python", window=”_blank”] /                   https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%201:%20Quartiles.R["R", window=”_blank”] 
+
+|1  |https://www.hackerrank.com/challenges/s10-interquartile-range/problem["Interquartile Range", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%201:%20Interquartile%20Range.py["Python", window=”_blank”] / https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%201:%20Interquartile%20Range.R["R", window=”_blank”]
+
+|1  |https://www.hackerrank.com/challenges/s10-standard-deviation/problem["Standard Deviation", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%201:%20Standard%20Deviation.py["Python", window=”_blank”] / https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%201:%20Standard%20Deviation.R["R", window=”_blank”]
+
+|2  |https://www.hackerrank.com/challenges/s10-mcq-1/problem["Basic Probability", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%202:%20Basic%20Probability.adoc["AsciiDoc", window=”_blank”]
 |=================================================
