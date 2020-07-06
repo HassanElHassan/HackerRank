@@ -1,0 +1,27 @@
+= HackerRank Challenges Successfully Completed
+:Author:        Hassan el Hassan
+:Email:         <hassan.el.hassan@vub.com>
+:Date:          01/07/2020
+:toc:           
+:toclevels:     4
+:sectnums: 
+:sectnumlevels: 
+:xrefstyle:     short
+:imagesdir:
+:hardbreaks:
+
+TIP: HackerRank Profile:
+https://www.hackerrank.com/hassan_elhassan[Hassan EL Hassan]
+
+== 10 Days of Statistics
+TIP: https://www.hackerrank.com/domains/tutorials/10-days-of-statistics?filters%5Bstatus%5D%5B%5D=solved&filters%5Bsubdomains%5D%5B%5D=10-days-of-statistics&badge_type=10-days-of-statistics[10 Days of Statistics]
+All coding solution are in Python(.py) and R(.R).
+All text solutions are in Asciidoc(.adoc).
+[options="header"]
+[cols="10%,45%,45%"]
+[width="100%"]
+|=================================================
+|Day|Challenge on HackerRank                 |Solution on GitHub
+|0  |https://www.hackerrank.com/challenges/s10-basic-statistics/problem[Mean, Median, and Mode]     |https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%200:%20Mean%2C%20Median%2C%20and%20Mode.py[Day 0: Mean, Median, and Mode.py]
+|0  |https://www.hackerrank.com/challenges/s10-basic-statistics/problem[Mean, Median, and Mode]     |https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%200:%20Mean%2C%20Median%2C%20and%20Mode.R[Day 0: Mean, Median, and Mode.R]
+|=================================================
