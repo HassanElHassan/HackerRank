@@ -2,7 +2,7 @@
 
 """
 Objective
-In this challenge, we practice calculating the interquartile range. We recommend you complete the Quartiles challenge before attempting this problem.
+In this challenge, we practice calculating the interquartile range.
 
 Task
 The interquartile range of an array is the difference between its first (Q1) and third (Q3) quartiles (i.e., Q3-Q1).
