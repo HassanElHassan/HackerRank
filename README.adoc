@@ -36,4 +36,18 @@ All text solutions are done using Asciidoc(.adoc).
 |1  |https://www.hackerrank.com/challenges/s10-standard-deviation/problem["Standard Deviation", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%201:%20Standard%20Deviation.py["Python", window=”_blank”] / https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%201:%20Standard%20Deviation.R["R", window=”_blank”]
 
 |2  |https://www.hackerrank.com/challenges/s10-mcq-1/problem["Basic Probability", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%202:%20Basic%20Probability.adoc["AsciiDoc", window=”_blank”]
+
+|2  |https://www.hackerrank.com/challenges/s10-mcq-2/problem["More Dice", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%202:%20More%20Dice.adoc["AsciiDoc", window=”_blank”]
+
+|2  |https://www.hackerrank.com/challenges/s10-mcq-3/problem["Compound Event Probability", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%202:%20Compound%20Event%20Probability.adoc["AsciiDoc", window=”_blank”]
+
+|3  |https://www.hackerrank.com/challenges/s10-mcq-4/problem["Conditional Probability", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%203:%20Conditional%20Probability.adoc["AsciiDoc", window=”_blank”]
+
+|3  |https://www.hackerrank.com/challenges/s10-mcq-5/problem["Cards of the Same Suit", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%203:%20Cards%20of%20the%20Same%20Suit.adoc["AsciiDoc", window=”_blank”]
+
+|3  |https://www.hackerrank.com/challenges/s10-mcq-6/problem["Drawing Marbles", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%203:%20Drawing%20Marbles.adoc["AsciiDoc", window=”_blank”]
+
+|4  |https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem["Binomial Distribution I", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%204:%20Binomial%20Distribution%20I.py["Python", window=”_blank”] / https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%204:%20Binomial%20Distribution%20I.R["R", window=”_blank”]
+
+|4  |https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem["Binomial Distribution II", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%204:%20Binomial%20Distribution%20II.py["Python", window=”_blank”] / https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%204:%20Binomial%20Distribution%20II.R["R", window=”_blank”]
 |=================================================
