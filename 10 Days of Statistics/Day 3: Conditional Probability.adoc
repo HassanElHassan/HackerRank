@@ -10,6 +10,8 @@
 :imagesdir:     images
 :hardbreaks: 
 
+== Objective
+In this challenge, we get started with conditional probability.
 
 == Task 
 
