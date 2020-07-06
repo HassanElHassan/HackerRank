@@ -1,15 +1,14 @@
 = Drawing Marbles
-===========
+:Author:        Hassan el Hassan
+:Email:         <hassan.el.hassan@vub.com>
+:Date:          01/07/2020
 :toc:           
 :toclevels:     4
-===========
 :sectnums: 
 :sectnumlevels: 4
 :xrefstyle:     short
-:Author:        Hassan el Hassan
-:Email:         <hassan.elhassan@confotherapeutics.com>
-:Date:          02/07/2020
-:imagesdir:     images    
+:imagesdir:     images
+:hardbreaks:  
 
 
 == Task 
@@ -30,7 +29,7 @@ https://www.hackerrank.com/challenges/s10-mcq-6/problem
 
 
 ### Experiment
-The probability that a second drawn marble is blue after a first marble is drawn from a bag containing 3 red and 4 blue marbles =  P(Blue) = P(B). +
+The probability that a second drawn marble is blue after a first marble is drawn from a bag containing 3 red and 4 blue marbles =  P(Blue) = P(B).
 
 
 ### Sample Space (S)
