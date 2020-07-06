@@ -1,4 +1,4 @@
-# https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem
+# https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem
 
 # the excersise can easily be solved using sum(dbinom(ls_x, size=n, prob=p))
 
