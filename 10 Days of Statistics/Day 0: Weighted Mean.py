@@ -2,8 +2,7 @@
 
 """
 Objective
-In the previous challenge, we calculated a mean. In this challenge, we practice calculating a weighted mean.
-Check out the Tutorial tab for learning materials and an instructional video!
+In this challenge, we practice calculating a weighted mean.
 
 Task
 Given an array, X, of N integers and an array, W, representing the respective weights of X's elements, calculate and print the weighted mean of X's elements.
