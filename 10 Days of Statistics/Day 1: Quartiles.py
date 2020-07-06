@@ -1,6 +1,15 @@
 # https://www.hackerrank.com/challenges/s10-quartiles/problem
 
-# quartiles calculated based on the first method described in the Wikipedia:
+"""
+Objective
+In this challenge, we practice calculating quartiles. Check out the Tutorial tab for learning materials and an instructional video!
+
+Task
+Given an array, X, of n integers, calculate the respective first quartile (Q1), second quartile (Q2), and third quartile (Q3).
+It is guaranteed that Q1, Q2, and Q3 are integers.
+"""
+
+# quartiles calculated acsording to the challenge and based on the first method described in the Wikipedia:
 # https://en.wikipedia.org/wiki/Quartile#Method_1
 
 # number of elements in list computed using len()
