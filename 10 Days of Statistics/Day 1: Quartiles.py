@@ -2,7 +2,7 @@
 
 """
 Objective
-In this challenge, we practice calculating quartiles. Check out the Tutorial tab for learning materials and an instructional video!
+In this challenge, we practice calculating quartiles.
 
 Task
 Given an array, X, of n integers, calculate the respective first quartile (Q1), second quartile (Q2), and third quartile (Q3).
