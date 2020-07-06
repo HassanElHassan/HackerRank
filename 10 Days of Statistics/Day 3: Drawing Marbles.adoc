@@ -10,6 +10,8 @@
 :imagesdir:     images
 :hardbreaks:  
 
+== Objective
+In this challenge, we're reinforcing what we've learned on Conditional Probability and Combinations and Permutations.
 
 == Task 
 
