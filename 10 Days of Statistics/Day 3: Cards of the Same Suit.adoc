@@ -1,4 +1,4 @@
-= Permutations and Combinations
+= Cards of the Same Suit
 :Author:        Hassan el Hassan
 :Email:         <hassan.el.hassan@vub.com>
 :Date:          02/07/2020
@@ -10,6 +10,8 @@
 :imagesdir:     images
 :hardbreaks:   
 
+== Objective
+In this challenge, we're getting started with combinations and permutations.
 
 == Task 
 
