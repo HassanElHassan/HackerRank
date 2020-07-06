@@ -3,7 +3,7 @@
 
 """
 Objective
-In this challenge, we practice calculating the mean, median, and mode. Check out the Tutorial tab for learning materials and an instructional video!
+In this challenge, we practice calculating the mean, median, and mode.
 
 Task
 Given an array, X, of N integers, calculate and print the respective mean, median, and mode on separate lines.
