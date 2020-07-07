@@ -36,7 +36,8 @@ def b(x, n, p):
     # total probability 
     return events * prob_each
 
-ls_input = list(map(float, input().rstrip().split()))
+# x, y = map(float, input().strip().split()) also an option
+ls_input = list(map(float, input().strip().split()))
 
 # the terms of the ratio
 # antecedent or first term
