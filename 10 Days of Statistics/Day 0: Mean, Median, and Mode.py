@@ -30,7 +30,7 @@ def mod(ls_val):
 # following variable only needed for the challenge to work but not for the script
 n = input()
 
-ls_val = list(map(int, input().rstrip().split()))
+ls_val = list(map(int, input().strip().split()))
 ls_val.sort()
 
 print(avg(ls_val))
