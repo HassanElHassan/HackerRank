@@ -33,8 +33,8 @@ def weighted_mean(ls_grade, ls_weight):
 # following variable only needed for the challenge to work but not for the script
 n=input()
 
-ls_grade = list(map(int, input().rstrip().split()))
+ls_grade = list(map(int, input().strip().split()))
 
-ls_weight = list(map(int, input().rstrip().split()))
+ls_weight = list(map(int, input().strip().split()))
 
 print(weighted_mean(ls_grade, ls_weight))
