@@ -46,8 +46,8 @@ def Q1_Q3(ls_val, Q2):
 # following variable only needed for the challenge to work but not for the script
 n = input()
 
-ls_elem = list(map(float, input().rstrip().split()))
-ls_freq = list(map(int, input().rstrip().split()))
+ls_elem = list(map(float, input().strip().split()))
+ls_freq = list(map(int, input().strip().split()))
 
 ls_values = elem_x_freq(ls_elem,ls_freq)
 ls_values.sort()
