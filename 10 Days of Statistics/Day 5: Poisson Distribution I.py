@@ -19,4 +19,4 @@ A = float(input().strip())
 # contains the value we want the probability for
 k = float(input().strip())
 
-print(poisson(A,k))
+print(round(poisson(A,k),3))
