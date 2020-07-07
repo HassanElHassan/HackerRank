@@ -32,7 +32,7 @@ def variance(ls_val):
 # following variable only needed for the challenge to work but not for the script
 n = input()
 
-ls_val = list(map(float, input().rstrip().split()))
+ls_val = list(map(float, input().strip().split()))
 
 ls_val_var = variance(ls_val)
 
