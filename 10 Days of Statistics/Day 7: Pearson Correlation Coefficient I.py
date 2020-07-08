@@ -41,8 +41,7 @@ def pcc(X,Y):
     return covariance(X,Y) / ( sd(X) * sd(Y) )
 
 # size of data sets X and Y
-# number of elements computed using len()
-# following variable only needed for the challenge to work but not for the script
+# following variable only needed for the challenge to work, number of elements computed using len()
 n = float(input().strip())
 
 # data set X
