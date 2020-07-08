@@ -48,3 +48,5 @@ Y <- unlist(strsplit(dataset[3], split=" "))
 Y <- as.numeric(Y)
 
 cat(round(pcc(X,Y),digits=3))
+
+close(con)
