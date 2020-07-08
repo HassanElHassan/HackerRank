@@ -1,0 +1,28 @@
+= Pearson Correlation Coefficient
+:Author:        Hassan el Hassan
+:Email:         <hassan.el.hassan@vub.com>
+:Date:          09/07/2020
+:toc:           
+:toclevels:     4
+:sectnums: 
+:sectnumlevels: 4
+:xrefstyle:     short
+:imagesdir:     images
+:hardbreaks:  
+
+== Objective
+In this challenge, we're reinforcing what we've learned on the Pearson Correlation Coefficient.
+
+== Task 
+
+The regression line of  on  is , and the regression line of  on  is . What is the value of the Pearson correlation coefficient?
+
+.Task URL
+[%collapsible]
+====
+https://www.hackerrank.com/challenges/s10-mcq-7/problem
+====
+
+== Solution 
+
+-3/4
