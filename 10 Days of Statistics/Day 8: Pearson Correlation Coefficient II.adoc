@@ -15,7 +15,7 @@ In this challenge, we're reinforcing what we've learned on the Pearson Correlati
 
 == Task 
 
-The regression line of  on  is , and the regression line of  on  is . What is the value of the Pearson correlation coefficient?
+The regression line of y on x is 3x+4y+8=0, and the regression line of x on y is 4x+3y+7=0 . What is the value of the Pearson correlation coefficient?
 
 .Task URL
 [%collapsible]
