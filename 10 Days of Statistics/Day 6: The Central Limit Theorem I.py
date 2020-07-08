@@ -1,4 +1,5 @@
 # https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1/problem
+
 """
 Objective
 In this challenge, we practice solving problems based on the Central Limit Theorem. 
