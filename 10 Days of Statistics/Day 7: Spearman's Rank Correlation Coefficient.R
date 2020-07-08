@@ -1,6 +1,5 @@
 # https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient/problem
 
-
 # function to calculate the value of Spearman's rank correlation coefficient
 # for data sets that contain unique values and of same length
 srcc <- function(X,Y){
