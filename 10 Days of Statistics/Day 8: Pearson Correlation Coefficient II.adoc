@@ -34,8 +34,8 @@ https://www.hackerrank.com/challenges/s10-mcq-7/problem
 ** b~xy~ = r(σ~y~/σ~x~) and b~yx~ = r(σ~x~/σ~y~) -> r^2^ = b~xy~b~yx~
 
 * Rewrite both regression lines to get the slope(b) for each:
-** 3x+4y+8 = 0 -> y = -3/4x-2 -> b = -3/4
-** 4x+3y+7 = 0 -> x = -3/4y-7/4 -> b = -3/4
+** 3x+4y+8 = 0 -> y = -3/4x-2 -> b~xy~ = -3/4
+** 4x+3y+7 = 0 -> x = -3/4y-7/4 -> b~yx~ = -3/4
 
 * Calculate the Pearson Correlation Coefficient(r):
 ** r^2^ = b~xy~b~yx~ = -3/4 x -3/4 = 9/16 
