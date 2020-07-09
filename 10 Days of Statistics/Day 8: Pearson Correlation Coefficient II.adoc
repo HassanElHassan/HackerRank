@@ -5,7 +5,7 @@
 :toc:           
 :toclevels:     4
 :sectnums: 
-:sectnumlevels: 4
+:sectnumlevels: 2
 :xrefstyle:     short
 :imagesdir:     images
 :hardbreaks:  
@@ -26,3 +26,57 @@ https://www.hackerrank.com/challenges/s10-mcq-7/problem
 == Solution 
 
 -3/4
+
+== Explanation
+
+=== Concise
+* Multiply equations for the slope(b) that makes use of the Pearson Correlation Coefficient(r):
+** b~xy~ = r(σ~y~/σ~x~) and b~yx~ = r(σ~x~/σ~y~) -> r^2^ = b~xy~b~yx~
+
+* Rewrite both regression lines to get the slope(b) for each:
+** 3x+4y+8 = 0 -> y = -3/4x-2 -> b = -3/4
+** 4x+3y+7 = 0 -> x = -3/4y-7/4 -> b = -3/4
+
+* Calculate the Pearson Correlation Coefficient(r):
+** r^2^ = b~xy~b~yx~ = -3/4 x -3/4 = 9/16 
+** slopes are negative so the value of r will be negative -> r = -3/4
+
+=== Step by Step
+
+===== step1: multiply equations for slope
+* One of the equations used to calculate the slope(b) of a regression line is:
+** b = r(σ~y~/σ~x~)
+
+* The slope(b) for both regression lines is known from the task, so we can rewrite this equations to be able to calculate the Pearson Correlation Coefficient(r):
+** r = b(σ~y~/σ~x~) -> b = r /(σ~y~/σ~x~) -> b = (rσ~x~)/σ~y~
+
+* multiply the slope equation of both regression lines:
+** cancel/strike out the standard deviations as they are the same in both the numerator and denominator
+** b~xy~b~yx~ = ((rσ~x~)/σ~y~)((rσ~y~)/σ~x~) = (r^2^σ~x~σ~y~)/(σ~y~σ~x~) = r^2^
+
+===== step2: rewrite regression line
+* Rewrite both regression lines to get the slope(b) for each:
+** regression line of y on x
+*** 3x+4y+8 = 0 -> 3x+8 = 0-4y -> 3x+8 = -4y -> (3x+8)/-4 = -4y/-4 -> 3x/-4+8/-4 = -4y/-4 -> y = -3/4x+-2
+*** b=-3/4
+** regression line of x on y
+*** 4x+3y+7 = 0 -> 3y+7 = 0-4x -> 3y+7 = -4x -> (3y+7)/-4 = -4x/-4 -> 3y/-4+7/-4 = -4y/-4 -> y = -3/4x+-7/4
+*** b=-3/4
+
+===== step3: calculate the Pearson Correlation Coefficient
+* Use the equation created in step1 to calculate the Pearson Correlation Coefficient(r):
+** r^2^ = b~xy~b~yx~ = -3/4 x -3/4 = 9/16
+** r^2^ = 9/16 -> r = sqrt(9/16) = 3/4
+** the r indicated the correclation between two variables
+** positive and negative r values respectively indicate a positive and a negative linear correlation
+** the b value indicates the steepness of the line
+** both the r and b values indicate as well the direction of the line
+*** positive values -> line is increasing -> line goes up from left to right
+*** negative values -> line is decreasing -> line goes down from left to right
+** so both r and b must have the same sign (+ or -)
+** slopes are negative so the value of r will be negative -> -3/4
+
+
+
+
+
