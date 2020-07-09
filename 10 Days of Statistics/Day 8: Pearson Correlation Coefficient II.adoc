@@ -30,7 +30,7 @@ https://www.hackerrank.com/challenges/s10-mcq-7/problem
 == Explanation
 
 === Concise
-* Multiply equations for the slope(b) that makes use of the Pearson Correlation Coefficient(r):
+* Multiply equations for the slope(b) that make use of the Pearson Correlation Coefficient(r):
 ** b~xy~ = r(σ~y~/σ~x~) and b~yx~ = r(σ~x~/σ~y~) -> r^2^ = b~xy~b~yx~
 
 * Rewrite both regression lines to get the slope(b) for each:
