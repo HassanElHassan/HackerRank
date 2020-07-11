@@ -61,6 +61,13 @@ hasnfrerfe
 
 == 30 Days of Code
 * https://www.hackerrank.com/domains/tutorials/30-days-of-code["30 Days of Code", window=”_blank”] on HackerRank.
-* All coding solution are done using Python3(.py) and R(.R).
-* All text solutions are done using Asciidoc(.adoc).
-* Due to the nature of Python and R the majority of these challenges could easily be solved using built-in functions or libraries, to keep it a challenge, these were avoided.
+* All coding solution are done using Java8.
+
+[options="header"]
+[cols="10%,60%,30%"]
+[width="60%"]
+|=================================================
+|Day|Challenge on HackerRank                 |Solution on GitHub
+|0  |https://www.hackerrank.com/challenges/30-hello-world/problem["Hello, World.", window=”_blank”] | ["Java", window=”_blank”]
+
+|=================================================
