@@ -1,5 +1,7 @@
 # https://www.hackerrank.com/challenges/s10-multiple-linear-regression/problem
 
+# excersise can easily be solved using lm(y ~ x1 + x2) that returns the slope (b1 and b2) and intercept (a)
+
 con <- file("stdin", open = "r")
 
 dataset <- readLines(con)
