@@ -41,4 +41,5 @@ B <- solve(t(X)%*%X)%*%t(X)%*%Y
 # find the value of Y for each of the q feature sets
 Y_query <- X_query%*%B
 
+# print per line Y of each feature set
 cat(round(Y_query,digits=2), sep="\n")
