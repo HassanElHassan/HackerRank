@@ -1,6 +1,6 @@
 # https://www.hackerrank.com/challenges/s10-least-square-regression-line/problem
 
-# excersise can easily be solved using lm(y ~ x) that returns the slope and intercept
+# exercise can easily be solved using lm(y ~ x) that returns the slope and intercept
 
 # built-in function cov() is for sample not population
 # the build in sd() function is for sample not population
