@@ -17,7 +17,7 @@ hasnfrerfe
 * HackerRank Profile: https://www.hackerrank.com/hassan_elhassan[Hassan EL Hassan]
 
 == 10 Days of Statistics
-* https://www.hackerrank.com/domains/tutorials/10-days-of-statistics?filters%5Bstatus%5D%5B%5D=solved&filters%5Bsubdomains%5D%5B%5D=10-days-of-statistics&badge_type=10-days-of-statistics[10 Days of Statistics] on HackerRank.
+* https://www.hackerrank.com/domains/tutorials/10-days-of-statistics["10 Days of Statistics", window=”_blank”] on HackerRank.
 * All coding solution are done using Python3(.py) and R(.R).
 * All text solutions are done using Asciidoc(.adoc).
 * Due to the nature of Python and R the majority of these challenges could easily be solved using built-in functions or libraries, to keep it a challenge, these were avoided.
@@ -58,3 +58,9 @@ hasnfrerfe
 
 |4  |https://www.hackerrank.com/challenges/s10-geometric-distribution-2/problem["Geometric Distribution II", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%204:%20Geometric%20Distribution%20II.py["Python", window=”_blank”] / https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%204:%20Geometric%20Distribution%20II.R["R", window=”_blank”]
 |=================================================
+
+== 30 Days of Code
+* https://www.hackerrank.com/domains/tutorials/30-days-of-code["30 Days of Code", window=”_blank”] on HackerRank.
+* All coding solution are done using Python3(.py) and R(.R).
+* All text solutions are done using Asciidoc(.adoc).
+* Due to the nature of Python and R the majority of these challenges could easily be solved using built-in functions or libraries, to keep it a challenge, these were avoided.
