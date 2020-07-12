@@ -12,9 +12,17 @@ hasnfrerfe
 :hardbreaks:
 :linkattrs:
 
-== General
+== Overview
 
 * HackerRank Profile: https://www.hackerrank.com/hassan_elhassan[Hassan EL Hassan]
+[options="header"]
+[cols="10%,60%,30%"]
+[width="60%"]
+|=================================================
+|Tutorial on HackerRank      | status                 |Badge
+|https://www.hackerrank.com/domains/tutorials/10-days-of-statistics["10 Days of Statistics", window=”_blank”]  | Finalized |
+|https://www.hackerrank.com/domains/tutorials/30-days-of-code["30 Days of Code", window=”_blank”] | In progress |
+|=================================================
 
 == 10 Days of Statistics
 * https://www.hackerrank.com/domains/tutorials/10-days-of-statistics["10 Days of Statistics", window=”_blank”] on HackerRank.
