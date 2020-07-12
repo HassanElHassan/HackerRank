@@ -26,6 +26,7 @@ hasnfrerfe
 
 == 10 Days of Statistics
 * https://www.hackerrank.com/domains/tutorials/10-days-of-statistics["10 Days of Statistics", window=”_blank”] on HackerRank.
+* https://github.com/HassanElHassan/HackerRank/tree/master/10%20Days%20of%20Statistics["Solutions", window=”_blank”] on GitHub
 * All coding solution are done using Python3(.py) and R(.R).
 * All text solutions are done using Asciidoc(.adoc).
 * Due to the nature of Python and R the majority of these challenges could easily be solved using built-in functions or libraries, to keep it a challenge, these were avoided.
