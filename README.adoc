@@ -21,7 +21,7 @@ hasnfrerfe
 |=================================================
 |Tutorial on HackerRank      | Solutions on GitHub |Status                 |Badge
 |https://www.hackerrank.com/domains/tutorials/10-days-of-statistics["10 Days of Statistics", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/tree/master/10%20Days%20of%20Statistics["Python/R/Asciidoc", window=”_blank”]  | Finalized |
-|https://www.hackerrank.com/domains/tutorials/10-days-of-javascript["10 Days of Javascript", window=”_blank”] | | In progress |
+|https://www.hackerrank.com/domains/tutorials/10-days-of-javascript["10 Days of Javascript", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/tree/master/10%20Days%20of%20Javascript["JavaScript", window=”_blank”] | In progress |
 |https://www.hackerrank.com/domains/tutorials/30-days-of-code["30 Days of Code", window=”_blank”] | | In progress |
 |=================================================
 
