@@ -80,7 +80,15 @@ hasnfrerfe
 
 |6  |https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem["The Central Limit Theorem III", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%206:%20The%20Central%20Limit%20Theorem%20III.py["Python", window=”_blank”] / https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%206:%20The%20Central%20Limit%20Theorem%20III.R["R", window=”_blank”]
 
+|7  |https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient/problem["Pearson Correlation Coefficient I", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%207:%20Pearson%20Correlation%20Coefficient%20I.py["Python", window=”_blank”] / https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%207:%20Pearson%20Correlation%20Coefficient%20I.R["R", window=”_blank”]
 
+|7  |https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient/problem["Spearman's Rank Correlation Coefficient", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%207:%20Spearman's%20Rank%20Correlation%20Coefficient.py["Python", window=”_blank”] / https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%207:%20Spearman's%20Rank%20Correlation%20Coefficient.R["R", window=”_blank”]
+
+|8  |https://www.hackerrank.com/challenges/s10-least-square-regression-line/problem["Least Square Regression Line", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%208:%20Least%20Square%20Regression%20Line.py["Python", window=”_blank”] / https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%208:%20Least%20Square%20Regression%20Line.R["R", window=”_blank”]
+
+|8  |https://www.hackerrank.com/challenges/s10-mcq-7/problem["Pearson Correlation Coefficient II", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%208:%20Pearson%20Correlation%20Coefficient%20II.adoc["AsciiDoc", window=”_blank”]
+
+|9  |https://www.hackerrank.com/challenges/s10-multiple-linear-regression/problem["Multiple Linear Regression", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%209:%20Multiple%20Linear%20Regression.py["Python", window=”_blank”] / https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%209:%20Multiple%20Linear%20Regression.R["R", window=”_blank”]
 
 |=================================================
 
