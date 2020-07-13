@@ -118,6 +118,6 @@ hasnfrerfe
 [width="60%"]
 |=================================================
 |Day|Challenge on HackerRank                 |Solution on GitHub
-|0  |https://www.hackerrank.com/challenges/30-hello-world/problem["Hello, World.", window=”_blank”] | ["Java", window=”_blank”]
+|0  |https://www.hackerrank.com/challenges/30-hello-world/problem["Hello, World.", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/30%20Days%20of%20Code/Day%200:%20Hello%2C%20World.java["Java", window=”_blank”] / https://github.com/HassanElHassan/HackerRank/blob/master/30%20Days%20of%20Code/Day%200:%20Hello%2C%20World.py["Python", window=”_blank”]
 
 |=================================================
