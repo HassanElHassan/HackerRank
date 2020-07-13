@@ -72,7 +72,15 @@ hasnfrerfe
 
 |5  |https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem["Normal Distribution I", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%205:%20Normal%20Distribution%20I.py["Python", window=”_blank”] / https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%205:%20Normal%20Distribution%20I.R["R", window=”_blank”]
 
-|5  |https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem["Normal Distribution II", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%205:%20Normal%20Distribution%20II.py.py["Python", window=”_blank”] / https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%205:%20Normal%20Distribution%20II.R["R", window=”_blank”]
+|5  |https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem["Normal Distribution II", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%205:%20Normal%20Distribution%20II.py["Python", window=”_blank”] / https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%205:%20Normal%20Distribution%20II.R["R", window=”_blank”]
+
+|6  |https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1/problem["The Central Limit Theorem I", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%206:%20The%20Central%20Limit%20Theorem%20I.py["Python", window=”_blank”] / https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%206:%20The%20Central%20Limit%20Theorem%20I.R["R", window=”_blank”]
+
+|6  |https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2/problem["The Central Limit Theorem II", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%206:%20The%20Central%20Limit%20Theorem%20II.py["Python", window=”_blank”] / https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%206:%20The%20Central%20Limit%20Theorem%20II.R["R", window=”_blank”]
+
+|6  |https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem["The Central Limit Theorem III", window=”_blank”] | https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%206:%20The%20Central%20Limit%20Theorem%20III.py["Python", window=”_blank”] / https://github.com/HassanElHassan/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%206:%20The%20Central%20Limit%20Theorem%20III.R["R", window=”_blank”]
+
+
 
 |=================================================
 
