@@ -96,7 +96,9 @@ hasnfrerfe
 
 == 10 Days of Javascript
 * https://www.hackerrank.com/domains/tutorials/10-days-of-javascript["10 Days of Javascript", window=”_blank”] on HackerRank.
+* https://github.com/HassanElHassan/HackerRank/tree/master/10%20Days%20of%20Javascript["Solutions", window=”_blank”] on GitHub.
 * All coding solution are done using JavaScript(Node.js).
+
 [options="header"]
 [cols="10%,60%,30%"]
 [width="60%"]
