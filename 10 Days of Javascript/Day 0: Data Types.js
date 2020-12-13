@@ -1,4 +1,26 @@
+'use strict';
 
+process.stdin.resume();
+process.stdin.setEncoding('utf-8');
+
+let inputString = '';
+let currentLine = 0;
+
+process.stdin.on('data', inputStdin => {
+    inputString += inputStdin;
+});
+
+process.stdin.on('end', _ => {
+    inputString = inputString.trim().split('\n').map(string => {
+        return string.trim();
+    });
+    
+    main();    
+});
+
+function readLine() {
+    return inputString[currentLine++];
+}
 
 /**
 *   The variables 'firstInteger', 'firstDecimal', and 'firstString' are declared for you -- do not modify them.
@@ -33,3 +55,11 @@ function performOperation(secondInteger, secondDecimal, secondString) {
     console.log(firstString+secondString);
 }
 
+
+function main() {
+    const secondInteger = readLine();
+    const secondDecimal = readLine();
+    const secondString = readLine();
+    
+    performOperation(secondInteger, secondDecimal, secondString);
+}
